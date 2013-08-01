@@ -1,0 +1,6 @@
+*.log
+*.out
+.idea*
+dist/
+target/
+sbt-launch.jar
